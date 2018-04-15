@@ -1,0 +1,41 @@
+*{
+    marign:0px;
+    padding: 0px;
+}
+.Header{
+    background-color: coral;
+    height: 100px;
+    overflow: hidden;
+    
+}
+.MainContent{
+    overflow: hidden;
+}
+.Sidebar{
+    background-color: brown;
+    height: 450px;
+    overflow: hidden;
+    float: left;
+    width: 20%;
+}
+.Content{
+    background-color: black;
+    height: 450px;
+    overflow: hidden;
+    width: 80%;
+}
+.part1{
+    background-color: darkgrey;
+    height: 100px;
+    overflow: hidden;
+    padding: 25px 62px;
+    margin: 35px 35px;
+    width: 30%;
+    float: left;
+    
+}
+.Footer{
+    background-color: coral;
+    height: 100px;
+    overflow: hidden;
+}
